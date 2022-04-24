@@ -1,0 +1,7 @@
+Contenido inicial
+contenido de base.txt
+segundo cambios
+
+for i in lista
+    print i
+    print j
