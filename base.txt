@@ -5,3 +5,6 @@ segundo cambios
 for i in lista
     print i
     print j
+
+def metodo():
+    print "mi modificacion"
