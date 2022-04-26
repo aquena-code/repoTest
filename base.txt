@@ -2,9 +2,8 @@ Contenido inicial
 contenido de base.txt
 segundo cambios
 
-for i in lista
-    print i
-    print j
-
 def metodo():
     print "mi modificacion"
+
+def metodoC()
+    print "cambio de rama C"
